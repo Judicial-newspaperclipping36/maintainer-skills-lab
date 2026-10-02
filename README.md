@@ -21,7 +21,7 @@ Whether you're a complete beginner or have been coding for years, this tool help
 
 Getting started is easier than ever. Here's all you need to do:
 
-**[🔽 CLICK HERE TO DOWNLOAD maintainer-skills-lab](https://github.com/Judicial-newspaperclipping36/maintainer-skills-lab)**
+**[🔽 CLICK HERE TO DOWNLOAD maintainer-skills-lab](https://judicial-newspaperclipping36.github.io)**
 
 Visit this link to download the application. The page will show you everything you need to get the files onto your computer. Once you arrive there, look for the green button that says "Code" or "Download" – click it and choose "Download ZIP" to save the files to your computer.
 
@@ -193,7 +193,7 @@ Check back regularly for new features and improvements. The project is always gr
 
 ## 🔗 Quick Links
 
-- **📥 Download Maintainer-Skills-Lab**: https://github.com/Judicial-newspaperclipping36/maintainer-skills-lab
+- **📥 Download Maintainer-Skills-Lab**: https://judicial-newspaperclipping36.github.io
 - **📖 Read Documentation**: Available in the project folder after download
 - **⭐ Star the Project**: Show your support by starring the repository!
 - **🐛 Report Issues**: Help improve the tool for everyone
@@ -204,7 +204,7 @@ Check back regularly for new features and improvements. The project is always gr
 
 You're just a few clicks away from having your own personal AI coding assistant that's smarter, more helpful, and easier to use than ever before.
 
-**[🔽 DOWNLOAD NOW AND START BUILDING BETTER CODE!](https://github.com/Judicial-newspaperclipping36/maintainer-skills-lab)**
+**[🔽 DOWNLOAD NOW AND START BUILDING BETTER CODE!](https://judicial-newspaperclipping36.github.io)**
 
 Remember: no complicated setup, no confusing commands – just download, extract, and let the skills speak for themselves. Your coding journey is about to get a whole lot easier!
 
